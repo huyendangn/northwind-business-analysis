@@ -23,4 +23,4 @@ drivers across products, promotions, cross-selling and shipping efficiency
 Source: [Northwind Traders – Maven Analytics](https://mavenanalytics.io/data-playground/northwind-traders)
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](RevenuePfm.png)
