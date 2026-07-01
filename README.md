@@ -19,7 +19,7 @@ drivers across products, promotions, cross-selling and shipping efficiency
 - 74% of products are low-price but contribute only 42% of revenue.
 - 2/3 of shipping companies deliver reasonable cost-efficiency.
 - See more infomation about categories, employees, customers, markets and recommendations etc. in the report.
-- 
+
 ![PeakSeason](PeakSeason.png)
 ![ProductValue](ProductValue.png)
 ![DeliveryPerformance](DeliveryPerformance.png)
