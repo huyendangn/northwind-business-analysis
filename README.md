@@ -18,7 +18,7 @@ drivers across products, promotions, cross-selling and shipping efficiency
 - Business shows clear seasonality: Q1 is peak season, Q3 is low season.
 - 74% of products are low-price but contribute only 42% of revenue.
 - 2/3 of shipping companies deliver reasonable cost-efficiency.
-- See more infomation about categories, employees, customers, markets and recommendations etc. in the report.
+- See more information about categories, employees, customers, markets and recommendations etc. in the report.
 
 ![PeakSeason](PeakSeason.png)
 ![ProductValue](ProductValue.png)
